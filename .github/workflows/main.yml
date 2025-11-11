@@ -1,4 +1,4 @@
-name: Maro
+name: secure-rdp
 
 on:
   workflow_dispatch:
